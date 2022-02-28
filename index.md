@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to MIT RSS Team 5 Page!
+
 
 You can use the [editor on GitHub](https://github.com/rss2022-5/temp_website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
